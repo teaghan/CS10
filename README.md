@@ -17,12 +17,19 @@
 
 - [Challenge 23](./Challenge_23.ipynb):  [[Download]]()
 
+<a download="Challenge_23.ipynb" href="[/path/to/image](https://github.com/teaghan/CS10/main/Challenge_23.ipynb
+)" title="Challenge_23">
+    <img alt="Challenge_23" src="/path/to/image">
+</a>
+
+<a href="https://github.com/teaghan/CS10/main/Challenge_23.ipynb" download="Challenge_23.ipynb"><img src="https://github.com/teaghan/CS10/main/Challenge_23.ipynb" /></a>
+
 
 [Download Minion](https://octodex.github.com/images/minion.png "download")
 
-<a id="raw-url" href="https://raw.githubusercontent.com/teaghan/CS10/raw/main/Challenge_23.ipynb">Download FILE</a>
+<a id="raw-url" href="https://raw.githubusercontent.com/teaghan/CS10/main/Challenge_23.ipynb">Download FILE</a>
 
-https://github.com/teaghan/CS10/raw/main/Challenge_23.ipynb
+https://github.com/teaghan/CS10/main/Challenge_23.ipynb
 
 <a href="https://octodex.github.com/images/minion.png" title="Download" download>Download</a>
 
