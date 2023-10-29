@@ -17,6 +17,9 @@
 
 - [Challenge 23](./Challenge_23.ipynb):  [[Download]]()
 
-<a id="raw-url" href="https://github.com/teaghan/CS10/raw/main/Challenge_23.ipynb">Download FILE</a>
+
+[Download Minion](https://octodex.github.com/images/minion.png "download")
+
+<a id="raw-url" href="https://raw.githubusercontent.com/teaghan/CS10/raw/main/Challenge_23.ipynb">Download FILE</a>
 
 https://github.com/teaghan/CS10/raw/main/Challenge_23.ipynb
