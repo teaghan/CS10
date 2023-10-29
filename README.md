@@ -17,6 +17,41 @@
 
 - [Challenge 23](./Challenge_23.ipynb):  [[Download]]()
 
+<script>
+(function($){
+    var download = [];
+    $('a.force-download, .force-download a').each(function(){
+        // Collect info
+        var $this = $(this),
+            $href = $this.attr('href'),
+            $split = $href.split('/'),
+            $name = document.title.replace(/[\W_]/gi, '-').replace(/-{2,}/g, '-'); // get title and clean it for the URL
+
+        // Get filename from URL
+        if($split[($split.length-1)])
+        {
+            $tmp = $split[($split.length-1)];
+            $tmp = $tmp.split('.');
+            $name = $tmp[0].replace(/[\W_]/gi, '-').replace(/-{2,}/g, '-');
+        }
+
+        // If name already exists, put timestamp there
+        if($.inArray($name, download) > -1)
+        {
+            $name = $name + '-' + Date.now().replace(/[\W]/gi, '-');
+        }
+
+        $(this).attr("download", $name);
+        download.push($name);
+    });
+}(jQuery || window.jQuery))
+</script>
+
+<a href="https://raw.githubusercontent.com/teaghan/CS10/main/Challenge_23.ipynb" class="force-download" target="_blank">Download PDF</a>
+
+<a href="./Challenge_23.ipynb" class="force-download" target="_blank">Download PDF</a>
+
+
 
 <a href="https://raw.githubusercontent.com/teaghan/CS10/main/Challenge_23.ipynb?forcedownload=1" download>Download Receipt</a>
 
