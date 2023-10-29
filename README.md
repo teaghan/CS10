@@ -17,9 +17,8 @@
 
 - [Challenge 23](./Challenge_23.ipynb):  [[Download]]()
 
-<a download="Challenge_23.ipynb" href="[/path/to/image](https://github.com/teaghan/CS10/main/Challenge_23.ipynb
-)" title="Challenge_23">
-    <img alt="Challenge_23" src="/path/to/image">
+<a download="Challenge_23.ipynb" href="https://raw.githubusercontent.com/teaghan/CS10/main/" title="Challenge_23">
+    <img alt="Challenge_23.ipynb" src="https://raw.githubusercontent.com/teaghan/CS10/main/">
 </a>
 
 <a href="https://raw.githubusercontent.com/teaghan/CS10/main/Challenge_23.ipynb" download="Challenge_23.ipynb"><img src="https://raw.githubusercontent.com/teaghan/CS10/main/Challenge_23.ipynb" /></a>
