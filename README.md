@@ -26,7 +26,7 @@
 
 [Download Minion](https://octodex.github.com/images/minion.png "download")
 
-<a id="raw-url" href="https://raw.githubusercontent.com/teaghan/CS10/main/Challenge_23.ipynb">Download FILE</a>
+<a id="raw-url" href="https://raw.githubusercontent.com/teaghan/CS10/main/Challenge_23.ipynb?forcedownload=1">Download FILE</a>
 
 https://github.com/teaghan/CS10/main/Challenge_23.ipynb
 
