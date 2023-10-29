@@ -17,6 +17,18 @@
 
 - [Challenge 23](./Challenge_23.ipynb):  [[Download]]()
 
+
+<a href="https://raw.githubusercontent.com/teaghan/CS10/main/Challenge_23.ipynb" download>Download Receipt</a>
+
+<a href="./Challenge_23.ipynb" download>Download Receipt</a>
+
+
+https://github.com/teaghan/CS10/blob/gh-pages/Deep%20Bag%20CV.pdf
+
+https://teaghan.github.io/CS10/Challenge_23.ipynb
+
+
+
 <a href="https://raw.githubusercontent.com/teaghan/CS10/main/Challenge_23.ipynb?forcedownload=1" download="Challenge_23.ipynb">Download Your Expense Report</a>
 
 <a href="https://raw.githubusercontent.com/teaghan/CS10/main/Challenge_23.ipynb" download="Challenge_23.ipynb">Download Your Expense Report</a>
